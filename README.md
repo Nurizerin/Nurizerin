@@ -8,3 +8,8 @@
 Nurizerin/Nurizerin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+<div>
+[![wakatime](https://wakatime.com/badge/user/75953ee1-0ff5-4df0-b01d-e7227914ef2b.svg)](https://wakatime.com/@75953ee1-0ff5-4df0-b01d-e7227914ef2b)
+</div>
